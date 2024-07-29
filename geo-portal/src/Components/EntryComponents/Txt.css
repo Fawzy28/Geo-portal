@@ -1,0 +1,6 @@
+h1{
+    font-size: clamp(10px,4vw,100px);
+}
+p{
+    font-size: clamp(5px,1.5vw,50px);
+}
